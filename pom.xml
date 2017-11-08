@@ -14,7 +14,7 @@
     <!--<version>1.0.1-SNAPSHOT</version>-->
     <!-- docker -->
     <!--<version>2.0.1-SNAPSHOT</version>-->
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>my-blog</name>
     <description>my-blog</description>
